@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tajaNews/static/css/main.8a7b0233.css",
+    "main.js": "/tajaNews/static/js/main.91ceb27e.js",
+    "static/js/787.b07480ad.chunk.js": "/tajaNews/static/js/787.b07480ad.chunk.js",
+    "static/media/loadingBook.gif": "/tajaNews/static/media/loadingBook.cbf51cb4144f94deae58.gif",
+    "index.html": "/tajaNews/index.html",
+    "main.8a7b0233.css.map": "/tajaNews/static/css/main.8a7b0233.css.map",
+    "main.91ceb27e.js.map": "/tajaNews/static/js/main.91ceb27e.js.map",
+    "787.b07480ad.chunk.js.map": "/tajaNews/static/js/787.b07480ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a7b0233.css",
+    "static/js/main.91ceb27e.js"
+  ]
+}
